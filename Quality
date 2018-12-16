@@ -1,1 +1,2 @@
-echo "Welcome to Quality"
+#!/bin/sh
+echo "Hello world"
