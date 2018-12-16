@@ -1,1 +1,2 @@
-echo "Welcome to unit"
+#!/bin/sh
+echo "Hello world"
